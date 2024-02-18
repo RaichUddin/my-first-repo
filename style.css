@@ -3,3 +3,7 @@ h2{
     background-color: aquamarine;
     color: brown;
 }
+img{
+    width: 50%;
+    border-radius: 20px;
+}
